@@ -6,6 +6,9 @@
 
 </div>
 
+### 실행 동영상 
+https://youtu.be/OL3YXTDDKEc
+
 ##  주요 화면
 
 |홈 화면|사진 검색|

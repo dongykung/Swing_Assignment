@@ -9,6 +9,18 @@
 ### 실행 동영상 
 https://youtu.be/OL3YXTDDKEc
 
+### 개발 환경
+|구분|내용|
+|---|---|
+|언어|Kotlin(1.9.0|
+|IDE|Android Studio(Iguana)|
+|UI|Compose|
+|아키텍처|MVVM|
+|라이브러리|Hilt, Retrofit, Okhttp, dataStore, Paging, Coil, Navigation|
+
+<hr>
+
+
 ##  주요 화면
 
 |홈 화면|사진 검색|

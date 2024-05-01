@@ -16,6 +16,7 @@ https://youtu.be/OL3YXTDDKEc
 |IDE|Android Studio(Iguana)|
 |UI|Compose|
 |아키텍처|MVVM|
+|API|Unsplash API|
 |라이브러리|Hilt, Retrofit, Okhttp, dataStore, Paging, Coil, Navigation|
 
 <hr>
